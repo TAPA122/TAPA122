@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TAPA122
-- 👀 I’m interested in ...blockchai development
+- 👀 I’m interested in ...blockchain development
 - 🌱 I’m currently learning ...NFTs
 - 💞️ I’m looking to collaborate on ...NFT staking one who can make a staking mechanism
 - 📫 How to reach me ...parambratabiswas35@gmail.com
